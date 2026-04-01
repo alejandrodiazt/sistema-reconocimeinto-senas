@@ -1,0 +1,9 @@
+tensorflow
+tf2onnx
+onnxruntime
+gradio
+pandas
+numpy
+scikit-learn
+matplotlib
+pillow
