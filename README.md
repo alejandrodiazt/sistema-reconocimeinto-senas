@@ -18,7 +18,7 @@ Instrucciones para reproducir el flujo completo
 
 2. Instalar las dependencias matemáticas ejecutando el comando `pip install -r requirements.txt` en la terminal.
 
-3. Asegurarse de que el archivo `modelo\_senas\_v4.onnx` se encuentre en el mismo directorio que el script principal.
+3. Asegurarse de que el archivo `modelo_senas_v4.onnx` se encuentre en el mismo directorio que el script principal.
 
 4\. Ejecutar el comando `python app.py` para levantar el servidor local de inferencia.
 
