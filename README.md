@@ -1,4 +1,4 @@
-\# Sistema Multimodal de Reconocimiento de Lenguaje de Señas
+\Sistema Multimodal de Reconocimiento de Lenguaje de Señas
 
 
 
@@ -6,13 +6,13 @@ Este repositorio contiene el producto final académico-profesional correspondien
 
 
 
-\## origen de los datos
+\Origen de los datos
 
 Se empleó el conjunto de datos público Sign Language MNIST disponible originalmente en Kaggle el cual contiene decenas de miles de imágenes en escala de grises que representan el alfabeto manual estático.
 
 
 
-\## instrucciones para reproducir el flujo completo
+\Instrucciones para reproducir el flujo completo
 
 1\. Clonar este repositorio en un entorno local o en la plataforma Google Colab.
 
