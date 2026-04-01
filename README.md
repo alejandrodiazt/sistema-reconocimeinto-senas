@@ -1,4 +1,4 @@
-\Sistema Multimodal de Reconocimiento de Lenguaje de Señas
+Sistema Multimodal de Reconocimiento de Lenguaje de Señas
 
 
 
@@ -6,19 +6,19 @@ Este repositorio contiene el producto final académico-profesional correspondien
 
 
 
-\Origen de los datos
+Origen de los datos
 
 Se empleó el conjunto de datos público Sign Language MNIST disponible originalmente en Kaggle el cual contiene decenas de miles de imágenes en escala de grises que representan el alfabeto manual estático.
 
 
 
-\Instrucciones para reproducir el flujo completo
+Instrucciones para reproducir el flujo completo
 
-1\. Clonar este repositorio en un entorno local o en la plataforma Google Colab.
+1. Clonar este repositorio en un entorno local o en la plataforma Google Colab.
 
-2\. Instalar las dependencias matemáticas ejecutando el comando `pip install -r requirements.txt` en la terminal.
+2. Instalar las dependencias matemáticas ejecutando el comando `pip install -r requirements.txt` en la terminal.
 
-3\. Asegurarse de que el archivo `modelo\_senas\_v4.onnx` se encuentre en el mismo directorio que el script principal.
+3. Asegurarse de que el archivo `modelo\_senas\_v4.onnx` se encuentre en el mismo directorio que el script principal.
 
 4\. Ejecutar el comando `python app.py` para levantar el servidor local de inferencia.
 
