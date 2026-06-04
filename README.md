@@ -2,7 +2,7 @@ Sistema Multimodal de Reconocimiento de Lenguaje de Señas
 
 
 
-Este repositorio contiene el producto final académico-profesional correspondiente al módulo de Machine Learning y Aprendizaje Profundo. La arquitectura ha sido optimizada mediante MobileNetV2 y exportada al formato ONNX para garantizar una eficiencia computacional absoluta durante la inferencia en tiempo real.
+Este repositorio contiene el producto final académico-profesional correspondiente al módulo de Machine Learning y Aprendizaje Profundo de la Maestría en Inteligencia Artificial, Machine Learning y Data Science. La arquitectura ha sido optimizada mediante MobileNetV2 y exportada al formato ONNX para garantizar una eficiencia computacional absoluta durante la inferencia en tiempo real.
 
 
 
